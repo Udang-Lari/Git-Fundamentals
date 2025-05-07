@@ -1,0 +1,12 @@
+# File2?
+
+## Author:
+- Name   : Louis Ruisani
+- No.    : 2702260994
+- Class  : LT01
+
+## Contents:
+---
+print('Hello World!')
+print('Tugas apa ini co')
+print('Laper bang')
